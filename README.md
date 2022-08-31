@@ -1,5 +1,5 @@
 # Protein Structure Prediction
-### Improving the Understanding of the Vaginal Microbiota through De Novo Structural Protein Prediction and Annotation
+### Improving the Understanding of the Vaginal Microbiota through <i>De Novo</i> Structural Protein Prediction and Annotation
 Repository with all scripts and data generated for my internship at the Computational Biology department of Institut Pasteur of Paris. </p></p>
 
 This research internship project was carried out in the Metagenomic Signatures group, led by Sean Kennedy, in the framework of the <b>InSPIRe project</b> (Innovative Strategies for Perinatal Infection Risk-reduction).
