@@ -124,9 +124,8 @@ def translate(seq, name) -> str:
             codon = seq[i:i + 3]
             if 'N' in codon:
                 n_count = seq.count('N')
-                print(f'DNA Sequence {name} contains {n_count} Ns! Skipping.')
-                protein = ""
-                return protein
+                print(f'DNA Sequence {name} contains {n_count} Ns!')
+                protein += 'G'
             protein+= table[codon]
     else:
         print(f'DNA sequence {name} not a a multiple of 3!')
